@@ -2,7 +2,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-br&show_icons=true&theme=dark)
 
 
+  
+
 <!--
+#### The technologies i use the most:
 **tiago-br/tiago-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
