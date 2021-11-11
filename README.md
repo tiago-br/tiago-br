@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile :smiley:!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-br&show_icons=true&theme=dark)
+
 
 <!--
 **tiago-br/tiago-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
