@@ -1,4 +1,13 @@
-### Welcome to my profile :smiley:!
+### Welcome to my profile, i'm Tiago Rebelato :smiley:! 
+  
+
+<ol>
+ <li>:computer: Full-Stack developer (Front-end :smiling_face_with_three_hearts:)!</li>
+ <li>:house_with_garden: I’m from Brazil.</li>
+ <li>:outbox_tray: 2021/2022 Goals: create a new project and find a new job.</li>
+	
+</ol>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-br&show_icons=true&theme=dark)
 
 
