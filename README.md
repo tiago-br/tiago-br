@@ -4,7 +4,7 @@
 <ol>
  <li>:computer: Full-Stack developer (Front-end :smiling_face_with_three_hearts:)!</li>
  <li>:house_with_garden: I’m from Brazil.</li>
- <li>:outbox_tray: 2021/2022 Goals: create a new project and find a new job.</li>
+ <li>:outbox_tray: 2021 Goals: Find a new job, continue my little personal project.</li>
 	
 </ol>
 <hr />
