@@ -1,12 +1,6 @@
 ### Welcome to my profile, i'm Tiago Rebelato :smiley:! 
   
 
-<ol>
- <li>:computer: Full-Stack developer!</li>
- <li>:house_with_garden: I’m from Brazil.</li>
- 
-	
-</ol>
 <hr />
 <div align="center">
   <a href="https://github.com/tiago-br">
